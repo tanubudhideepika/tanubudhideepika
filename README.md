@@ -17,26 +17,6 @@ Experienced in developing production-grade ETL pipelines, predictive models, MLO
 - Statistical Analysis & Experimentation
 - Demand Forecasting & Time Series Analysis
 
-## Technical Skills
-
-### Programming
-Python, SQL
-
-### Machine Learning
-Scikit-Learn, XGBoost, TensorFlow, PyTorch, Keras, NLP, Time Series Forecasting
-
-### GenAI & LLMs
-OpenAI API, LangChain, Hugging Face, Pinecone, RAG Pipelines, LLM Fine-Tuning
-
-### Data Engineering
-PySpark, Airflow, Snowflake, BigQuery, Redshift, PostgreSQL, Hive
-
-### Cloud & MLOps
-AWS (SageMaker, Lambda, S3), GCP (Vertex AI, BigQuery), Docker, MLflow
-
-### Analytics & Visualization
-Tableau, Power BI, Streamlit, Microsoft Fabric
-
 ## Featured Projects
 
 ### Flight Delay Prediction System
