@@ -63,14 +63,11 @@ Data Scientist
 
 ## Certifications
 
-- AWS Certified Machine Learning Engineer – Associate
-  - Credential: https://www.credly.com/badges/c00f1c4b-3edc-48d2-aa48-8463ef5b9d8c/public_url
-
-- AWS Certified Cloud Practitioner
-  - Credential: https://www.credly.com/badges/8d53f12f-6a86-4e14-b8a1-b719eb69ef86
-
-- IBM Python for Data Science
-  - Credential: https://www.credly.com/badges/ca4bc1b7-180b-4f0f-9751-1cc55bf806e6/public_url
+| Certification | Credential |
+|---------------|------------|
+| AWS Certified Machine Learning Engineer – Associate | [View Badge](https://www.credly.com/badges/c00f1c4b-3edc-48d2-aa48-8463ef5b9d8c/public_url) |
+| AWS Certified Cloud Practitioner | [View Badge](https://www.credly.com/badges/8d53f12f-6a86-4e14-b8a1-b719eb69ef86) |
+| IBM Python for Data Science | [View Badge](https://www.credly.com/badges/ca4bc1b7-180b-4f0f-9751-1cc55bf806e6/public_url) |
 
 ## Connect
 
