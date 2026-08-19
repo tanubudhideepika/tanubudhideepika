@@ -1,8 +1,8 @@
 # Deepika Tanubudhi
 
-Data Scientist | Machine Learning Engineer | Data Engineer
+Data Engineer | Data Scientist | Machine Learning Engineer
 
-Data professional with 5+ years of experience building machine learning systems, cloud-native data platforms, and Generative AI applications across healthcare, retail, finance, and telecom domains.
+Data professional with ~6 years of experience building machine learning systems, cloud-native data platforms, and Generative AI applications across healthcare, retail, finance, and telecom domains.
 
 Experienced in developing production-grade ETL pipelines, predictive models, MLOps workflows, and Retrieval-Augmented Generation (RAG) systems using AWS, GCP, Azure, Python, SQL, PySpark, and modern AI frameworks.
 
